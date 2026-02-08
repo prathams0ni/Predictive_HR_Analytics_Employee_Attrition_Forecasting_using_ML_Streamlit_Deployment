@@ -51,6 +51,20 @@ The solution is deployed as an interactive **Streamlit web application**, allowi
 
 ---
 
+## 🤖 Machine Learning Algorithm
+
+**Decision Tree Classifier**
+
+The Decision Tree algorithm is a supervised learning model used for classification tasks. It splits the dataset based on feature values to predict whether an employee is likely to leave.
+
+**Why Decision Tree?**
+- Handles non-linear relationships well  
+- Easy to interpret  
+- Works well with structured HR data  
+- Requires minimal feature scaling  
+
+---
+
 ## 📊 Input Features
 
 The model predicts attrition based on the following employee attributes:
