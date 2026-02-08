@@ -2,6 +2,8 @@
 
 An end-to-end Machine Learning web application that predicts whether an employee is likely to leave the company using HR analytics data. The system helps organizations identify high-risk employees and take proactive retention actions through predictive analytics.
 
+---
+
 🔗 **Live App:** https://employee-attrition-ml-app.streamlit.app/
 
 <img width="1916" height="867" alt="image" src="https://github.com/user-attachments/assets/499c45e3-704b-4332-8002-5cb9408d582d" />
