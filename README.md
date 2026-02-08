@@ -4,6 +4,8 @@ An end-to-end Machine Learning web application that predicts whether an employee
 
 🔗 **Live App:** https://employee-attrition-ml-app.streamlit.app/
 
+<img width="1916" height="867" alt="image" src="https://github.com/user-attachments/assets/499c45e3-704b-4332-8002-5cb9408d582d" />
+
 ---
 
 ## 🚀 Project Overview
