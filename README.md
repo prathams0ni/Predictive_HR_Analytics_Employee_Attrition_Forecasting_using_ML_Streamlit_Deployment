@@ -111,7 +111,7 @@ The model predicts attrition based on the following employee attributes:
 
 ---
 
-## ▶️ Run Locally
+## ▶️ Run Locally:
 
 ```bash
 pip install -r requirements.txt
@@ -165,7 +165,7 @@ https://employee-attrition-ml-app.streamlit.app/
 ## 👨‍💻 Author
 
 **Pratham Soni**  
-Machine Learning | Data Analytics | Predictive Modeling  
+Machine Learning | Data Analytics | Predictive Modeling
 
 ---
 
